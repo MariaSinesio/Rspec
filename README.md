@@ -1,3 +1,3 @@
-## Rspec 
+##Rspec 
 
-Rspec é uma gem legível e poderosa de desenvolvimento orientado a testes em Ruby
+Rspec é uma gem poderosa de desenvolvimento orientado a testes e comportamento em Ruby. 
