@@ -4,7 +4,7 @@ Rspec é uma <em>gem</em> poderosa de desenvolvimento orientado a testes e compo
 
 ### Iniciando no Rspec
 
-Primeiramene, iremos instalar a <em> gem</em>:
+Primeiramente, iremos instalar a <em> gem</em>:
 
  ```
 gem install rspec
@@ -15,4 +15,6 @@ Para garantir e verificar a versão do Rspec, digite:
 ```
 rspec -- version
 ```
-Escrevendo <b>rspec -- help</b>, conseguimos visualizar a lista de opções.
+Escrevendo <b>rspec -- help</b>, conseguimos visualizar a lista de opções disponíveis.
+
+
