@@ -1,6 +1,6 @@
 ## Rspec 
 
-Rspec é uma <em>gem</em> poderosa de desenvolvimento orientado a testes e comportamento em Ruby, ofertando uma sintaxe mais claa, legível e elegante. 
+Rspec é uma <em>gem</em> poderosa de desenvolvimento orientado a testes e comportamento em Ruby, ofertando uma sintaxe mais clara, legível e elegante para os desenvolvedores.
 
 ### Iniciando no Rspec
 
